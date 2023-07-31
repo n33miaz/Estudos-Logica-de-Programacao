@@ -1,0 +1,3 @@
+Java JDK --> https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
+
+IDE: Eclipse --> https://www.eclipse.org/downloads/packages/
