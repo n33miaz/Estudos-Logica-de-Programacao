@@ -1,0 +1,7 @@
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\6- soma_vetor\6- soma_vetor\bin\Debug\6- soma_vetor.exe.config
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\6- soma_vetor\6- soma_vetor\bin\Debug\6- soma_vetor.exe
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\6- soma_vetor\6- soma_vetor\bin\Debug\6- soma_vetor.pdb
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\6- soma_vetor\6- soma_vetor\obj\Debug\6- soma_vetor.csproj.AssemblyReference.cache
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\6- soma_vetor\6- soma_vetor\obj\Debug\6- soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\6- soma_vetor\6- soma_vetor\obj\Debug\6- soma_vetor.exe
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\6- soma_vetor\6- soma_vetor\obj\Debug\6- soma_vetor.pdb

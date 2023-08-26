@@ -1,0 +1,7 @@
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\3- menordetres\3- menordetres\obj\Debug\3- menordetres.csproj.AssemblyReference.cache
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\3- menordetres\3- menordetres\obj\Debug\3- menordetres.csproj.CoreCompileInputs.cache
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\3- menordetres\3- menordetres\bin\Debug\3- menordetres.exe.config
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\3- menordetres\3- menordetres\bin\Debug\3- menordetres.exe
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\3- menordetres\3- menordetres\bin\Debug\3- menordetres.pdb
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\3- menordetres\3- menordetres\obj\Debug\3- menordetres.exe
+C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\3- menordetres\3- menordetres\obj\Debug\3- menordetres.pdb
