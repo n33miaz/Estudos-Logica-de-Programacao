@@ -1,7 +1,0 @@
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\5- somaimpares\5- somaimpares\bin\Debug\5- somaimpares.exe.config
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\5- somaimpares\5- somaimpares\bin\Debug\5- somaimpares.exe
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\5- somaimpares\5- somaimpares\bin\Debug\5- somaimpares.pdb
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\5- somaimpares\5- somaimpares\obj\Debug\5- somaimpares.csproj.AssemblyReference.cache
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\5- somaimpares\5- somaimpares\obj\Debug\5- somaimpares.csproj.CoreCompileInputs.cache
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\5- somaimpares\5- somaimpares\obj\Debug\5- somaimpares.exe
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\5- somaimpares\5- somaimpares\obj\Debug\5- somaimpares.pdb

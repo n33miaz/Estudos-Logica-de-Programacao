@@ -1,7 +1,0 @@
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

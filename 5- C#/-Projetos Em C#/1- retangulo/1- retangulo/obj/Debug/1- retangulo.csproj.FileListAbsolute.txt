@@ -1,7 +1,0 @@
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\1- retangulo\1- retangulo\obj\Debug\1- retangulo.csproj.AssemblyReference.cache
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\1- retangulo\1- retangulo\obj\Debug\1- retangulo.csproj.CoreCompileInputs.cache
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\1- retangulo\1- retangulo\bin\Debug\1- retangulo.exe.config
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\1- retangulo\1- retangulo\bin\Debug\1- retangulo.exe
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\1- retangulo\1- retangulo\bin\Debug\1- retangulo.pdb
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\1- retangulo\1- retangulo\obj\Debug\1- retangulo.exe
-C:\Users\ncorm\OneDrive - Fundação Instituto de Educação de Barueri\Arquivos Compartilhados - Neemias\Ud. - Lógica de Programação\5- C#\-Projetos Em C#\1- retangulo\1- retangulo\obj\Debug\1- retangulo.pdb
