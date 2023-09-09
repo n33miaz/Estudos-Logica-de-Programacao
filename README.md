@@ -1,3 +1,2 @@
 # Logica-de-Programacao
- Esse repositório foi feito para alocar meus códigos de estudo. 
- Portugol foi a principal linguagem estudada aqui, como uma especíe de introdução a esse universo de programação, mas também estudei linguagens como C, C++, Python, C# e Java.
+Os códigos são respostas dos exercícios criados pelo professor Nélio Alves, do curso Algoritmos e Lógica de Programação na Udemy. Fico feliz com qualquer tipo de feedback.
