@@ -1,3 +1,0 @@
-Compilador GCC (para Windows: MinGW) --> http://www.mingw.org/
-
-IDE : Code Blocks --> http://www.codeblocks.org/downloads
